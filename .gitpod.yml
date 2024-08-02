@@ -1,0 +1,6 @@
+image: gitpod/workspace-base
+
+gitConfig:
+    alias.st: status
+    core.autocrlf: input
+  
